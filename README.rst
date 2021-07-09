@@ -2,6 +2,8 @@
 RFI-Scan-APD-Dataset
 ====================
 
+Data first available: 10 Nov 2020
+
 contact at: devanshshukla99_
 
 Observations
