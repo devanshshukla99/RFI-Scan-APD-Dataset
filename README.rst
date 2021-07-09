@@ -37,6 +37,15 @@ Observations
 | Thirteenth Clue (ThC)   | 07-09-2019   | 06:26        |
 +-------------------------+--------------+--------------+
 
+
+About the data
+--------------
+
+The data is acquired using SAS_ with rtl-power-fftw_ as its back-end; it is available at ``data/*/data`` with its logs at ``data/*/logs/``.
+
+SAS_ collects and syn generates prelim power and dynamic spectrum, available at ``data/*/plots/``.
+
+
 Credits
 -------
 
