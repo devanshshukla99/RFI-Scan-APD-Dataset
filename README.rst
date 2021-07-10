@@ -5,9 +5,9 @@ RFI-Scan-APD-Dataset
 .. image:: https://zenodo.org/badge/384357463.svg
    :target: https://zenodo.org/badge/latestdoi/384357463
 
-Data first available: 10 Nov 2020
+- Data first available: 10 Nov 2020
 
-Collected using: RTL-SDR RTL2832U (Software Defined Radio)
+- Collected using: RTL-SDR RTL2832U (Software Defined Radio)
 
 contact at: devanshshukla99_
 
