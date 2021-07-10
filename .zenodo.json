@@ -1,0 +1,15 @@
+
+{
+    "description": "RFI scan data with 13 observation runs; collected using a RTL-SDR RTL2832U (Software defined radio).", 
+    "license": "CC-BY-4.0",
+    "title": "Dataset for Radio frequency interference scan at APD, SVNIT, Surat(IN)", 
+    "upload_type": "dataset", 
+    "creators": [
+        {   
+            "orcid": "0000-0003-0610-9747",
+            "affiliation": "Sardar Vallabhbhai National Institute of Technology Surat, India",
+            "name": "Shukla, Devansh"
+        }
+    ], 
+    "access_right": "open"
+}

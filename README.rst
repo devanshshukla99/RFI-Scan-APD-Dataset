@@ -2,7 +2,12 @@
 RFI-Scan-APD-Dataset
 ====================
 
+.. image:: https://zenodo.org/badge/384357463.svg
+   :target: https://zenodo.org/badge/latestdoi/384357463
+
 Data first available: 10 Nov 2020
+
+Collected using: RTL-SDR RTL2832U (Software Defined Radio)
 
 contact at: devanshshukla99_
 
@@ -44,8 +49,6 @@ About the data
 --------------
 
 The data is acquired using SAS_ with rtl-power-fftw_ as its back-end; it is available at ``data/*/data`` with its logs at ``data/*/logs/``.
-
-SAS_ collects and syn generates prelim power and dynamic spectrum, available at ``data/*/plots/``.
 
 
 File nomenclature
