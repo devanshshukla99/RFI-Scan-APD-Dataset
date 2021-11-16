@@ -2,8 +2,8 @@
 RFI-Scan-APD-Dataset
 ====================
 
-.. image:: https://zenodo.org/badge/384357463.svg
-   :target: https://zenodo.org/badge/latestdoi/384357463
+.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.5089824.svg
+   :target: https://doi.org/10.5281/zenodo.5089824
 
 - Data first available: 10 Nov 2020
 
